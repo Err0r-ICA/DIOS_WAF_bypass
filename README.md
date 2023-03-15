@@ -6,4 +6,6 @@ Custom DIOS for SQL injection
 
 ## PoC
 
-* [HACKED](https://tinyurl.com/uvtkpeha) 
+* [HACKED 1°](https://tinyurl.com/uvtkpeha)
+* [HACKED 2°](https://tinyurl.com/5edxfrjw) (.edu website)
+* [HACKED 3°](https://t.ly/4FjZ) (.edu website)
