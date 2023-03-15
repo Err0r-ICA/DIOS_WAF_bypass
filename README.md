@@ -1,5 +1,5 @@
-# My-DIOS
-Custom very heavy DIOS for SQL injection
+# *My-DIOS*
+Custom very heavy DIOS for SQL injection.<br>
 Takes much time to upload but works 100% WAF Bypass 
 
 ## 📸 Screenshot 📸
