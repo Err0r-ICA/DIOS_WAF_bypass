@@ -3,7 +3,7 @@ Custom very heavy DIOS for SQL injection.<br>
 Takes much time to upload but works 100% WAF Bypass 
 
 ## 📸 Screenshot 📸
-![Screenshot](https://i.postimg.cc/xYSb0KvN/IMG-20230310-191611.jpg)
+![Screenshot](https://i.ibb.co/8gwhmzF/IMG-20230310-191611.jpg)
 
 ## PoC
 
