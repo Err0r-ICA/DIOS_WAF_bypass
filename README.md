@@ -19,4 +19,4 @@ Takes much time to upload but works 100% WAF Bypass
 
 
 
-Credits goes to [Err0r_HB](https://t.me/Err0r_HB) and big thanks to [bY🅟4s5](https://t.me/mdieter)
+Credits goes to [Err0r_HB](https://t.me/ErrOr_HB) and big thanks to [bY🅟4s5](https://t.me/mdieter)
